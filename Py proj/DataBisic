@@ -1,0 +1,21 @@
+x = str(3)    # x will be '3'
+y = int(3)    # y will be 3
+z = float(3)  # z will be 3.0
+
+
+Text Type:	str
+Numeric Types:	int, float, complex
+Sequence Types:	list, tuple, range
+Mapping Type:	dict
+Set Types:	set, frozenset
+Boolean Type:	bool
+Binary Types:	bytes, bytearray, memoryview
+
+
+x = 1    # int
+y = 2.8  # float
+z = 1j   # complex
+
+
+'a'  #same
+"a"  #same
